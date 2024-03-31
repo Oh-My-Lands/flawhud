@@ -7,7 +7,7 @@
 	//--------------------------------------------------------------
 	"TransparentViewmodel"
 	{
-		"visible"			"0"
+		"visible"			"1"
 		"enabled"			"1"
 		"controlName"		"ImagePanel"
 		"fieldName"			"TransparentViewmodel"
@@ -698,7 +698,7 @@
 		"wide"				"32"
 		"tall"				"32"
 	}
-	
+
 	"HudVoiceStatus"
 	{
 		"fieldName"			"HudVoiceStatus"
@@ -720,12 +720,12 @@
 		"icon_tall"			"12"
 		"icon_wide"			"12"
 		"text_xpos"			"17"
-		
+
 		"show_avatar"		"1"
 		"avatar_ypos"		"-1"
 		"avatar_xpos"		"115"
 		"avatar_tall"		"17"
-		
+
 		"text_xpos_minmode"	"9999"
 	}
 
