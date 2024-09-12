@@ -6,7 +6,7 @@
 	{
 		"fieldName"				"ExpandableList"
 		"xpos"					"r0"
-		"ypos"					"r63"
+		"ypos"					"r75"
 		"zpos"					"2001"
 		"wide"					"f0"
 		"tall"					"f0"
@@ -18,18 +18,18 @@
 	{
 		"ControlName"			"Label"
 		"fieldName"				"Title"
-		"xpos"					"c-350"
-		"ypos"					"12"
+		"xpos"					"0"
+		"ypos"					"25"
 		"zpos"					"99"
-		"wide"					"130"
-		"tall"					"40"
+		"wide"					"f0"
+		"tall"					"20"
 		"proportionaltoparent"	"1"
 		"labeltext"				"#TF_Matchmaking_HeaderModeSelect"
-		"textAlignment"			"west"
+		"textAlignment"			"center"
 		"font"					"HudFontMediumBold"
 		"fgcolor_override"		"TanLight"
 		"mouseinputenabled"		"0"
-		"wrap"					"1"
+		"visible"				"0"
 	}
 
 	"playlist"
